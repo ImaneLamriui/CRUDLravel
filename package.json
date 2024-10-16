@@ -13,5 +13,8 @@
         "rimraf": "^6.0.1",
         "sass": "^1.56.1",
         "vite": "^5.0"
+    },
+    "dependencies": {
+        "remix": "^2.13.1"
     }
 }
